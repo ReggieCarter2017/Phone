@@ -1,6 +1,5 @@
 import Import as imp
 import Logger as log
-import Search as srch
 
 def UserInterface():
         choice = 0
