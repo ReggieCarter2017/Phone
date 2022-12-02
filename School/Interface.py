@@ -1,7 +1,5 @@
 import Teacher as teach
 import Searching as srch
-import os
-clear = lambda: os.system('cls')
 
 def UserInterFace():
     print("1. Войти как учитель.\n2. Войти как ученик.\n3. Выйти из приложения.")
